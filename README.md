@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rp0373365/Leetcode500/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
+| [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
