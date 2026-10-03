@@ -9,6 +9,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode500/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
