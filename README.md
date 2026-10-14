@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode500/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/rp0373365/Leetcode500/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/rp0373365/Leetcode500/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -98,4 +100,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0145-binary-tree-postorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
