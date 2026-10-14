@@ -41,7 +41,7 @@ public:
             temp = temp->next;
             a = a->next;
         }
-        if(fidx == -1 || sidx == -1) return {-1,-1};
+        if(sidx == -1) return {-1,-1};
         int maxd = sidx - fidx;
         return {mind , maxd};
         //return {(ans[ans.size()-1]-ans[ans.size()-2]),(ans[ans.size()-1]-ans[0])};
