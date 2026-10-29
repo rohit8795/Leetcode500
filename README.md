@@ -60,6 +60,7 @@
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -120,4 +122,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
