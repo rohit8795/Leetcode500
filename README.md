@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode500/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rp0373365/Leetcode500/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode500/tree/master/0283-move-zeroes) |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -123,4 +126,12 @@
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
