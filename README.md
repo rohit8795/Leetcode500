@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rp0373365/Leetcode500/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode500/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode500/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -134,4 +137,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
