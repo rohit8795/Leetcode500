@@ -5,19 +5,17 @@ public:
         {
             return false;
         }
-        string s = to_string(x);
-        int i = 0 ; 
-        int j = s.size()-1;
-        while(i<j)
+        int original = x;
+        long long rev = 0;
+        while(x>0)
         {
-            if(s[i]!=s[j])
-            {
-                return false;
-            }
-            i++;
-            j--;
+            rev = (10*rev)+(x%10);
+            x = x/10;
         }
-        return true;
+        if(rev == original){
+            return true;
+        }
+        return false;
 
     }
 };
