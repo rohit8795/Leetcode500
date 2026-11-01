@@ -20,6 +20,7 @@
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rp0373365/Leetcode500/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
 | ------- |
