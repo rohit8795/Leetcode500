@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/rp0373365/Leetcode500/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/rp0373365/Leetcode500/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
