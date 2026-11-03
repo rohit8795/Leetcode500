@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode500/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode500/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -44,11 +46,13 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rp0373365/Leetcode500/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -69,6 +73,7 @@
 | [0009-palindrome-number](https://github.com/rp0373365/Leetcode500/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
@@ -81,6 +86,7 @@
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
