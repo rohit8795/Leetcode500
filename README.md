@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rp0373365/Leetcode500/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/rp0373365/Leetcode500/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rp0373365/Leetcode500/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
