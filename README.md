@@ -99,6 +99,7 @@
 | [0058-length-of-last-word](https://github.com/rp0373365/Leetcode500/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode500/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rp0373365/Leetcode500/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -171,4 +173,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
