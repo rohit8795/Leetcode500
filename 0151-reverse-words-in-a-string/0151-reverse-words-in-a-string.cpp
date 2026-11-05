@@ -19,7 +19,6 @@ public:
                 str = str+v[i]+" ";
             }
         }
-        cout<<str;
         return str;
     }
 };
