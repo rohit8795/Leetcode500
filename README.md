@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -203,4 +206,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
