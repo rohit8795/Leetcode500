@@ -12,6 +12,7 @@
 | [0137-single-number-ii](https://github.com/rp0373365/Leetcode500/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rp0373365/Leetcode500/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@
 | [0050-powx-n](https://github.com/rp0373365/Leetcode500/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rp0373365/Leetcode500/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
@@ -181,4 +183,24 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
