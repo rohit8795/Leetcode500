@@ -23,6 +23,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode500/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@
 | [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
@@ -105,6 +107,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -179,6 +182,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -225,11 +229,13 @@
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -242,4 +248,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
