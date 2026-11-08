@@ -25,6 +25,7 @@
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/rp0373365/Leetcode500/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
@@ -230,6 +231,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/rp0373365/Leetcode500/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
