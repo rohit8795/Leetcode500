@@ -7,18 +7,8 @@ public:
             sort(i.begin(),i.end());
             mp[i]++;
         }
-        for(auto i : mp)
-        {
-            cout<<i.first<<"->"<<i.second<<endl;
-        }
         int count = 0;
-        for(auto i : mp)
-        {
-            if(i.second == 2)
-            {
-                count++;
-            }
-        }
+        for(auto i : mp) if(i.second == 2) count++;
         return count;
     }
 };
