@@ -66,6 +66,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rp0373365/Leetcode500/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode500/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/rp0373365/Leetcode500/tree/master/1207-unique-number-of-occurrences) |
@@ -117,6 +118,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode500/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rp0373365/Leetcode500/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +132,7 @@
 | [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode500/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/rp0373365/Leetcode500/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode500/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode500/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rp0373365/Leetcode500/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
