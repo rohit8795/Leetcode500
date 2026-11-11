@@ -60,5 +60,24 @@ public:
         //     return false;
         // }
         // return true;
+
+
+        // <---- METHOD - 3 --------->
+
+        if(s.size()!=t.size())
+        {
+            return false;
+        }
+        vector<int>count(26,0);
+        for(int i = 0 ; i < s.size() ; i++)
+        {
+            count[s[i]-'a']++;
+            count[t[i]-'a']++;
+        }
+        for(auto i : count)
+        {
+            if(i!=0) return false;
+        }
+        return true;
     }
 };
