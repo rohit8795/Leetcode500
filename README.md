@@ -29,6 +29,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/rp0373365/Leetcode500/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/rp0373365/Leetcode500/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
@@ -67,6 +68,7 @@
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
+| [1207-unique-number-of-occurrences](https://github.com/rp0373365/Leetcode500/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
