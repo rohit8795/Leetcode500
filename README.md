@@ -37,6 +37,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rp0373365/Leetcode500/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rp0373365/Leetcode500/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode500/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rp0373365/Leetcode500/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Prefix Sum
 |  |
 | ------- |
