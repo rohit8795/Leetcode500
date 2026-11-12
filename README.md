@@ -39,6 +39,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rp0373365/Leetcode500/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rp0373365/Leetcode500/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0050-powx-n](https://github.com/rp0373365/Leetcode500/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
