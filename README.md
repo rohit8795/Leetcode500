@@ -43,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rp0373365/Leetcode500/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/rp0373365/Leetcode500/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rp0373365/Leetcode500/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode500/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rp0373365/Leetcode500/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rp0373365/Leetcode500/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
