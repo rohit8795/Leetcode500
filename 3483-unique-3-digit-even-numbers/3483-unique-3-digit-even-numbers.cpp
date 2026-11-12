@@ -19,16 +19,16 @@ public:
             freq[c]--;
             if(freq[a]>=0 && freq[b]>=0 && freq[c]>=0)
             {
-                ans.push_back(i);
+                st.insert(i);
             }
             freq[a]++;
             freq[b]++;
             freq[c]++;
         }
-        for(int i : ans)
-        {
-            st.insert(i);
-        }
+        // for(int i : ans)
+        // {
+        //     st.insert(i);
+        // }
         return st.size();
     }
 };
