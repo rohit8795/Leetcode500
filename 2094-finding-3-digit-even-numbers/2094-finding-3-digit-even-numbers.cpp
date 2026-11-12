@@ -35,11 +35,43 @@ public:
 
         // <------ METHOD - 2 ---------> 
 
-        unordered_map<int , int>mp;
+        // unordered_map<int , int>mp;
+        // vector<int>ans;
+        // for(int i : digits)
+        // {
+        //     mp[i]++;
+        // }
+        // for(int i = 100 ; i<=999 ; i+=2)
+        // {
+        //     int x = i;
+        //     int a = x%10; x=x/10;
+        //     int b = x%10 ; x=x/10;
+        //     int c = x;
+        //     if(mp.find(a)!=mp.end())
+        //     {
+        //         mp[a]--;
+        //         if(mp[a]==0) mp.erase(a);
+        //         if(mp.find(b)!=mp.end())
+        //         {
+        //             mp[b]--;
+        //             if(mp[b]==0) mp.erase(b);
+        //             if(mp.find(c)!=mp.end())
+        //             {
+        //                 ans.push_back(i);
+        //             }
+        //             mp[b]++;
+        //         }
+        //         mp[a]++;
+        //     }
+        // }
+        // return ans;
+
+        // <------ METHOD - 2 ---------> 
         vector<int>ans;
+        vector<int>freq(100,0);
         for(int i : digits)
         {
-            mp[i]++;
+            freq[i]++;
         }
         for(int i = 100 ; i<=999 ; i+=2)
         {
@@ -47,23 +79,18 @@ public:
             int a = x%10; x=x/10;
             int b = x%10 ; x=x/10;
             int c = x;
-            if(mp.find(a)!=mp.end())
+            freq[a]--;
+            freq[b]--;
+            freq[c]--;
+            if(freq[a]>=0 && freq[b]>=0 && freq[c]>=0)
             {
-                mp[a]--;
-                if(mp[a]==0) mp.erase(a);
-                if(mp.find(b)!=mp.end())
-                {
-                    mp[b]--;
-                    if(mp[b]==0) mp.erase(b);
-                    if(mp.find(c)!=mp.end())
-                    {
-                        ans.push_back(i);
-                    }
-                    mp[b]++;
-                }
-                mp[a]++;
+                ans.push_back(i);
             }
+            freq[a]++;
+            freq[b]++;
+            freq[c]++;
         }
         return ans;
+
     }
 };
