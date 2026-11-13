@@ -30,7 +30,7 @@ public:
             {
                 slow = slow->next;
                 temp = temp->next;
-            }
+            }  
         }
         return slow;
     }
