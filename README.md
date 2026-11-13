@@ -39,6 +39,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rp0373365/Leetcode500/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rp0373365/Leetcode500/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rp0373365/Leetcode500/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3467-transform-array-by-parity](https://github.com/rp0373365/Leetcode500/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
+| [3467-transform-array-by-parity](https://github.com/rp0373365/Leetcode500/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3467-transform-array-by-parity](https://github.com/rp0373365/Leetcode500/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
