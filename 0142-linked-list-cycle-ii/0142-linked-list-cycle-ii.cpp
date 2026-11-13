@@ -30,7 +30,6 @@ public:
             {
                 slow = slow->next;
                 temp = temp->next;
-                if(slow==temp) return slow;
             }
         }
         return slow;
