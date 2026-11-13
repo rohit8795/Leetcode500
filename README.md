@@ -54,6 +54,7 @@
 | [0295-find-median-from-data-stream](https://github.com/rp0373365/Leetcode500/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rp0373365/Leetcode500/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -152,6 +153,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rp0373365/Leetcode500/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rp0373365/Leetcode500/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
