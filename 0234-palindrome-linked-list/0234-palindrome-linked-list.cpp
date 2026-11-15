@@ -25,26 +25,51 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* temp = head;
-        ListNode* dummy = new ListNode(100);
-        ListNode* start = dummy;
-        while(temp!=NULL)
+
+        // <-------- METHOD-1 ---------->
+
+        // ListNode* temp = head;
+        // ListNode* dummy = new ListNode(100);
+        // ListNode* start = dummy;
+        // while(temp!=NULL)
+        // {
+        //     ListNode* tempNode = new ListNode(temp->val);
+        //     dummy->next = tempNode;
+        //     dummy=dummy->next;
+        //     temp = temp->next;
+        // }
+        // ListNode* duplicate = start->next;
+        // ListNode* NewNode = reverseList(duplicate);
+        // ListNode* tempNew = NewNode;
+        // temp = head;
+        // while(temp!=NULL && tempNew!=NULL)
+        // {
+        //     if(temp->val!=tempNew->val) return false;
+        //     temp = temp->next;
+        //     tempNew = tempNew->next;
+        // }
+        // return true;
+
+        // <-------- METHOD - 2 --------->
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next!=NULL && fast->next->next!=NULL)
         {
-            ListNode* tempNode = new ListNode(temp->val);
-            dummy->next = tempNode;
-            dummy=dummy->next;
-            temp = temp->next;
+            slow=slow->next;
+            fast = fast->next->next;
         }
-        ListNode* duplicate = start->next;
-        ListNode* NewNode = reverseList(duplicate);
-        ListNode* tempNew = NewNode;
-        temp = head;
-        while(temp!=NULL && tempNew!=NULL)
+        ListNode* second_half1 = slow->next;
+        slow->next = NULL;
+        ListNode* second_half = reverseList(second_half1);
+        ListNode* temp = head;
+        while(temp!=NULL && second_half!=NULL)
         {
-            if(temp->val!=tempNew->val) return false;
+            if(temp->val!=second_half->val) return false;
             temp = temp->next;
-            tempNew = tempNew->next;
+            second_half = second_half->next;
         }
         return true;
+         
     }
 };
