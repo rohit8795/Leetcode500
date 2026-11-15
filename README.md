@@ -61,6 +61,7 @@
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0328-odd-even-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rp0373365/Leetcode500/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
