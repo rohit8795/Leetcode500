@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rp0373365/Leetcode500/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rp0373365/Leetcode500/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rp0373365/Leetcode500/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/rp0373365/Leetcode500/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rp0373365/Leetcode500/tree/master/0092-reverse-linked-list-ii) |
@@ -220,6 +221,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rp0373365/Leetcode500/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rp0373365/Leetcode500/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/rp0373365/Leetcode500/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0206-reverse-linked-list) |
