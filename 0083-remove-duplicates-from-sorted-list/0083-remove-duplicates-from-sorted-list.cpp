@@ -38,21 +38,35 @@ public:
 
         //<-------- METHOD NO - 2 ----------->
 
+        // if(head==NULL || head->next==NULL) return head;
+        // ListNode* c = new ListNode(100);
+        // ListNode* tempc = head;
+        // ListNode* temp = head->next;
+        // c->next = head;
+        // while(temp!=NULL)
+        // {
+        //     if(temp->val!=tempc->val)
+        //     {
+        //         tempc->next = temp;
+        //         tempc = temp;
+        //     }
+        //     temp = temp->next;
+        // }
+        // tempc->next=nullptr;
+        // return c->next;
+
+        //<-------- METHOD NO - 3 ----------->
+
         if(head==NULL || head->next==NULL) return head;
-        ListNode* c = new ListNode(100);
-        ListNode* tempc = head;
-        ListNode* temp = head->next;
-        c->next = head;
-        while(temp!=NULL)
+        ListNode* a = head;
+        ListNode* b = head->next;
+        while(b!=NULL)
         {
-            if(temp->val!=tempc->val)
-            {
-                tempc->next = temp;
-                tempc = temp;
-            }
-            temp = temp->next;
+            while(b!=NULL && a->val==b->val) b = b->next;
+            a->next = b;
+            a=b;
+            if(b!=NULL) b = b->next;
         }
-        tempc->next=nullptr;
-        return c->next;
+        return head;
     }
 };
