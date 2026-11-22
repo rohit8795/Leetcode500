@@ -190,6 +190,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rp0373365/Leetcode500/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0234-palindrome-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0234-palindrome-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -363,4 +366,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rp0373365/Leetcode500/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
