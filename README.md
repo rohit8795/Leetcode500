@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rp0373365/Leetcode500/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode500/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +211,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rp0373365/Leetcode500/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rp0373365/Leetcode500/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rp0373365/Leetcode500/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
@@ -382,5 +384,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rp0373365/Leetcode500/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
