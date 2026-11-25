@@ -20,11 +20,6 @@ public:
         {
             ans[i] = mp[nums1[i]];
         }
-
-        // for(auto x : ans)
-        // {
-        //     cout<<x.first<<"->"<<x.second<<endl;
-        // }
         return ans;
     }
 };
