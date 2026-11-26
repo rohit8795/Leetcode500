@@ -31,6 +31,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/rp0373365/Leetcode500/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/rp0373365/Leetcode500/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/rp0373365/Leetcode500/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode500/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/rp0373365/Leetcode500/tree/master/1052-grumpy-bookstore-owner) |
 ## Geometry
 |  |
 | ------- |
