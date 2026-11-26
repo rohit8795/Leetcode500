@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode500/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rp0373365/Leetcode500/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/rp0373365/Leetcode500/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rp0373365/Leetcode500/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode500/tree/master/0977-squares-of-a-sorted-array) |
@@ -359,6 +360,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rp0373365/Leetcode500/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/rp0373365/Leetcode500/tree/master/1052-grumpy-bookstore-owner) |
 ## Geometry
