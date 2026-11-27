@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode500/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rp0373365/Leetcode500/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/rp0373365/Leetcode500/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/rp0373365/Leetcode500/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/rp0373365/Leetcode500/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode500/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rp0373365/Leetcode500/tree/master/0229-majority-element-ii) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rp0373365/Leetcode500/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode500/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/rp0373365/Leetcode500/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode500/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode500/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rp0373365/Leetcode500/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -146,6 +148,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rp0373365/Leetcode500/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
@@ -361,6 +364,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rp0373365/Leetcode500/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rp0373365/Leetcode500/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rp0373365/Leetcode500/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/rp0373365/Leetcode500/tree/master/1052-grumpy-bookstore-owner) |
