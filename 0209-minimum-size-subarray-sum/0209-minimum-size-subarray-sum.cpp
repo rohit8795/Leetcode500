@@ -5,7 +5,7 @@ public:
         int i = 0 ;
         int j = 0 ;
         int sum = 0;
-        int minLen  = nums.size()+2;
+        int minLen  = INT_MAX;
         while(j<n)
         {
             sum = sum+nums[j];
@@ -17,7 +17,7 @@ public:
             }
             j++;
         }
-        if(minLen  == nums.size()+2) return 0;
+        if(minLen  == INT_MAX) return 0;
         return minLen;
     }
 };
