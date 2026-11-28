@@ -39,6 +39,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode500/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rp0373365/Leetcode500/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode500/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rp0373365/Leetcode500/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode500/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rp0373365/Leetcode500/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rp0373365/Leetcode500/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -257,6 +258,7 @@
 | [0213-house-robber-ii](https://github.com/rp0373365/Leetcode500/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rp0373365/Leetcode500/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rp0373365/Leetcode500/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/rp0373365/Leetcode500/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rp0373365/Leetcode500/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rp0373365/Leetcode500/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rp0373365/Leetcode500/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Geometry
 |  |
 | ------- |
